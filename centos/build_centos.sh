@@ -1,0 +1,1 @@
+docker build -t plaquette/prokka_helper:centos .

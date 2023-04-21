@@ -1,0 +1,1 @@
+docker push plaquette/prokka_helper:conda
