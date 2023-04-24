@@ -44,3 +44,6 @@ ENV PATH="$PATH:/root/prokka/bin"
 
 # Add tbl2asn to the PATH
 ENV PATH="$PATH:/root/prokka/binaries/linux"
+
+WORKDIR /root/prokka/bin/
+
